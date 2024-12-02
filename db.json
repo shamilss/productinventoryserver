@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "name": "Oneplus 12",
+      "category": "Electronics",
+      "price": "60000",
+      "stock": "15",
+      "description": "Oneplus Flagship",
+      "id": 4
+    },
+    {
+      "name": "Xiaomi 14",
+      "category": "Electronics",
+      "price": "50000",
+      "stock": "25",
+      "description": "Xiaomi Flagship",
+      "id": 5
+    },
+    {
+      "name": "Samsung S24",
+      "category": "Electronics",
+      "price": "80000",
+      "stock": "20",
+      "description": "Samsung Flagship",
+      "id": 6
+    }
+  ]
+}
